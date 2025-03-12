@@ -30,8 +30,10 @@ A Telegram bot to generate Gmail address variations using dot and plus tricks.
    pip install python-telegram-bot
 
 3. **Configure the Bot**
-Replace "YOUR_BOT_TOKEN" in main.py with your Telegram bot token from BotFather.
 
-4. **Run the Bot**
+   ```bash
+   Replace "YOUR_BOT_TOKEN" in main.py with your Telegram bot token from BotFather.
+
+5. **Run the Bot**
    ```bash
    python main.py
