@@ -24,7 +24,7 @@ A Telegram bot to generate Gmail address variations using dot and plus tricks.
    git clone https://github.com/noahclanman/gmail-variation-bot.git
    cd gmail-variation-bot
 
-2 **Install Dependencies**
+2. **Install Dependencies**
 
    ```bash
    pip install python-telegram-bot
